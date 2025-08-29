@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    margin-top: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#loop-output li {
+    list-style-type: disc;
+    margin-left: 20px;
+}
